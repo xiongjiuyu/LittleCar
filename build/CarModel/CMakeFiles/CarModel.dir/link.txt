@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCarModel.a CMakeFiles/CarModel.dir/CarModel.cpp.o
+/usr/bin/ranlib libCarModel.a

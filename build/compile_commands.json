@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/build/CarModel",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -o CMakeFiles/CarModel.dir/CarModel.cpp.o -c /Users/xiongjiuyu/Desktop/LittleCar/LittleCar/CarModel/CarModel.cpp",
+  "file": "/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/CarModel/CarModel.cpp"
+},
+{
+  "directory": "/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/build/main",
+  "command": "/usr/bin/clang++  -I/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/CarModel -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -o CMakeFiles/test.dir/main.cpp.o -c /Users/xiongjiuyu/Desktop/LittleCar/LittleCar/main/main.cpp",
+  "file": "/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/main/main.cpp"
+}
+]

@@ -1,0 +1,8 @@
+/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/build/CMakeFiles/edit_cache.dir
+/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/build/CMakeFiles/rebuild_cache.dir
+/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/build/CarModel/CMakeFiles/CarModel.dir
+/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/build/CarModel/CMakeFiles/edit_cache.dir
+/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/build/CarModel/CMakeFiles/rebuild_cache.dir
+/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/build/main/CMakeFiles/test.dir
+/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/build/main/CMakeFiles/edit_cache.dir
+/Users/xiongjiuyu/Desktop/LittleCar/LittleCar/build/main/CMakeFiles/rebuild_cache.dir
