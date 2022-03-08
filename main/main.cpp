@@ -1,8 +1,12 @@
 #include <cstdio>
-#include <CarModel.h>
+#include <CarModel.hpp>
 
 int main()
 {
-    CarModel::say();
+    while (true)
+    {
+        CarModel *Car = newCar;
+        Car->setLeftWheel(Car)
+    }
     return 0;
 }
